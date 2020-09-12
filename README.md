@@ -1,4 +1,6 @@
 # GRUBHUB_NLP_REVIEWS
+![alt text](https://github.com/sanjayjain22/GRUBHUB_NLP_REVIEWS/blob/master/Resources/logo.png)
+
 Detailed analysis of Reviews of Grubhub's service segmented by their business operations.
 
 ## I. INTRODUCTION
@@ -62,7 +64,7 @@ Over 40% reviews in Grub hub are rating one star and 35% are rating five stars. 
 reviews in Uber Eats are rating one. If we just take a look at these two plots, we would
 say Grub hub has a better overall performance than Uber Eats.
 
-#### first image over here
+![alt text](https://github.com/sanjayjain22/GRUBHUB_NLP_REVIEWS/blob/master/Resources/first.png)
 
 Why their overall reviews have a significant different? Do Grub hub has a better service
 than Uber Eats? We find the answer in the following histogram, we bring in a new
@@ -75,7 +77,7 @@ This is an interesting finding. If we only focus on the people who are not invit
 Hub and Uber Eats seems perform indifference. We doubt at the credibility of those
 reviews written by who are invited.
 
-#### second image over here
+![alt text](https://github.com/sanjayjain22/GRUBHUB_NLP_REVIEWS/blob/master/Resources/second.png)
 
 ## V. INSIGHT
 
